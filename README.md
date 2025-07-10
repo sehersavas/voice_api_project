@@ -64,4 +64,5 @@ Yapay zekâ destekli bileşenlerin entegrasyonunu deneyimleyerek, modern API gel
 Projede karşılaştığım en büyük zorluklardan biri, yeni geliştirme ortamlarına adaptasyon süreci oldu. Ayrıca, farklı bileşenlerin (ses dosyası yükleme, speech-to-text, duygu analizi, text-to-speech) test aşamalarının entegre edilmesi ve düzgün çalışmasının sağlanması zaman ve dikkat gerektirdi.
 
 Python konusunda henüz yeni olmama rağmen, bu proje sayesinde hem temel programlama becerilerimi hem de REST API geliştirme yeteneklerimi önemli ölçüde ilerlettim.
+
 Öğrenmeye ve geliştirmeye açık olduğum bu süreçte, gerçek dünyadaki uygulamalara yönelik pratik deneyim kazandım.
